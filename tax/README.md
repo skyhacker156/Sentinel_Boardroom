@@ -1,105 +1,108 @@
 # Tax Department — Sentinel_Boardroom
 
-**Stuart Badge Required**: `BADGE2_ARBITER.md` (or higher)  
-[View the exact badge in Stuart →](https://github.com/your-org/Stuart/blob/main/portables/BADGE2_ARBITER.md)
+**Stuart Badge Required**: `BADGE2_ARBITER.md` (or higher)
 
-> This department is governed exclusively by the Stuart portable **BADGE2_ARBITER.md**.  
-> Only LLMs that have received and accepted this exact badge from the Founder may assist here.  
-> All other access levels are forbidden.
+> This department is governed exclusively by Stuart.
+> Only LLMs that have received this exact badge from the Founder may work here.
 
 ---
 
 ## Essential Information
 
 **Purpose**  
-Documentation-level tax analysis, deductible-category education, filing timelines, and CPA-style conceptual guidance for Founder operations.
+Tax strategy documentation, deductible categorization, entity structure implications, and tax planning frameworks to support Sentinel Labs' tax efficiency and compliance.
 
 **Status**  
 Active — Badge-managed (Sentinel_Boardroom → Tax)
 
-**Scope**  
-Educational and advisory only. Never official tax advice, never return preparation, never jurisdiction-specific, never execution.
+**Scope of Work (Allowed)**
+- Tax strategy documentation and frameworks
+- Deductible category mapping and documentation
+- Entity election implications analysis
+- Tax compliance requirement documentation
+- Tax timeline and deadline tracking
+- Tax planning scenario analysis
 
-**Binding Document**  
-Yes — aligns with Stuart Badge System and Sentinel_Boardroom governance.
-
----
-
-## What This Department Is
-
-The Tax Department provides professional-grade, **conceptual tax education** and strategic frameworks.  
-It simulates CPA-level thinking for documentation and learning purposes while remaining strictly non-actionable.  
-All output is for Founder consideration only; licensed CPAs must be consulted for real decisions.
-
----
-
-## Badge Discipline (enforced by Stuart)
-
-| Stuart Badge         | Access to Tax Department | Notes                                           |
-|----------------------|--------------------------|-------------------------------------------------|
-| BADGE1_PRISM.md      | Denied                   | Public/frontend scope only                      |
-| **BADGE2_ARBITER.md**| Full advisory authority  | **Required minimum**                           |
-| BADGE3_STEWARD.md    | Full (routing permitted) | May assign or supervise Tax Department work    |
-
-Only the single portable handed to you by the Founder is valid.  
-No combinations, no exceptions.
+**Out of Scope (Prohibited)**
+- Providing tax advice or counsel
+- Preparing tax returns
+- Making tax decisions
+- Representing company to tax authorities
+- Accessing sealed systems
+- Overriding Founder decisions
 
 ---
 
-## Required Reading (for BADGE2_ARBITER and higher)
+## Badge Discipline (Enforced by Stuart)
 
-Before any tax task, read in order:
+| Stuart Badge | Access | Notes |
+|---|---|---|
+| BADGE1_PRISM.md | Denied | Public/frontend scope only |
+| **BADGE2_ARBITER.md** | Full advisory authority | **Required minimum** |
+| BADGE3_STEWARD.md | Full | May supervise work |
 
-1. ORIENTATION.md — Department purpose and operating model  
-2. BOUNDARIES.md — Exact in-scope / out-of-scope definitions  
-3. TASKS_ALLOWED.md — Concrete examples of safe work  
+---
 
-Estimated first-time read: 45–60 minutes.
+## Required Intake Sequence
+
+Before any work in Tax:
+
+1. Receive this README from the Founder
+2. Receive exactly one badge (BADGE2_ARBITER.md or higher)
+3. Restate scope in your own words
+4. Wait for explicit "Begin."
+5. Produce one deliverable per response
+6. End with: "Awaiting Founder review."
 
 ---
 
 ## Core Operating Rules
 
-**You may**  
-- Create educational frameworks and deductible-category guides  
-- Document general tax concepts, timelines, and entity implications  
-- Propose options with sources and reasoning  
+**You may**
+- Draft tax strategy frameworks
+- Map deductible categories
+- Analyze entity election implications
+- Create tax planning documentation
+- Propose tax scenarios to Founder
+- Coordinate with Finance, Legal, Compliance
 
-**You may not**  
-- Prepare or file tax returns  
-- Provide jurisdiction-specific or personalized tax advice  
-- Access Founder personal financial data or sealed systems  
-- Make decisions or implement anything  
-
-All output requires explicit Founder review and approval before any use whatsoever.
-
----
-
-## Quick Reference
-
-| Do                                    | Don’t                                    |
-|---------------------------------------|------------------------------------------|
-| Educate conceptually                  | Give official tax advice                 |
-| Document general frameworks           | Prepare or file returns                  |
-| Explain deductible categories         | Optimize Founder’s personal situation    |
-| Create filing calendars (general)     | Access personal data                     |
-| Propose options                       | Decide for the Founder                   |
-| Defer always to licensed CPAs         | Publish or implement directly            |
+**You may not**
+- Provide tax advice or counsel
+- Prepare tax returns
+- Make tax decisions
+- Represent to tax authorities
+- Override Founder decisions
+- Access sealed systems
 
 ---
 
-## Founder Declaration
+## Detailed Scope
 
-By assigning **BADGE2_ARBITER.md** (or higher) to an LLM for work in the Tax Department, I (the Founder) affirm:
+For detailed scope boundaries specific to Tax, see:  
+📄 `BADGE_SCOPE.md`
 
-- All work is educational and conceptual only  
-- I will consult licensed CPAs before any tax decision or filing  
-- Final authority on all tax matters remains with the Founder  
-- Badge revocation will occur immediately for any scope violation  
+For Tax's full charter, see:  
+📄 `Tax_Charter.md`
 
-**Department Status**: ACTIVE — Badge-managed  
-**Last Updated**: November 22, 2025  
-**Maintained By**: Founder, Sentinel Laboratories  
+---
 
-Welcome to the Tax Department.  
-Educate with precision, document with clarity, and always defer to the Founder and licensed professionals.
+## Professional Deference
+
+**For specific tax advice, consult a CPA.**
+
+This department provides documentation frameworks only. A licensed CPA must prepare tax returns and provide formal tax guidance.
+
+---
+
+## Cross-Department Coordination
+
+Tax works with:
+- **Finance** — Deductible category mapping, expense documentation
+- **Legal** — Entity structure implications
+- **Compliance** — Tax compliance requirements
+
+---
+
+**Status**: ACTIVE — Badge-managed  
+**Last Updated**: November 23, 2025  
+**Maintained By**: Founder, Sentinel Laboratories
